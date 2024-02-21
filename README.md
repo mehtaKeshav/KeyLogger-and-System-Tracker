@@ -30,14 +30,4 @@ Purpose of the project is testing the security of information systems
 •**If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.**
 
 
-## ANTIVIRUS TEST
-
-![github-small](/images/1.png)
-
-![github-small](/images/2.png)
-
-However, if you've made some money using my tools or just want to encourage me to continue creating stuff, please consider giving back on 
-**BTC Wallet : 1NqDy1VdF5wkvxBcojbADWexPhPzza6LGF** my efforts and help it grow by buying me coffee - but only if you're definitely able to! 😊🎉
-
----
 
